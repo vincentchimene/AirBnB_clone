@@ -45,4 +45,4 @@ The first phase is to manipulate a powerful storage system to give an abstractio
 - create all unittests to validate all our classes and storage engine
 - Create a data model
 - Manage (create, update, destroy, etc) objects via a console/command interpreter
-- Store and persist objects to files (JSON files)
+- Store and persist objects to files (JSON files).
